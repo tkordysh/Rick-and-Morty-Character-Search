@@ -10,32 +10,7 @@ const StyledDiv = styled.div`
 
 
 
-const initialPeople = [
-  // {
-  //   id: 0,
-  //   image: "https://picsum.photos/seed/picsum/200/300?random=1",
-  //   name: "Compy John",
-  //   status: "clutching up",
-  //   species: "human",
-  //   gender: "male"
-  // },
-  // {
-  //   id: 1,
-  //   image: "https://picsum.photos/seed/picsum/200/300?random=2",
-  //   name: "Stacy's Mom",
-  //   status: "having it going on ",
-  //   species: "human",
-  //   gender: "female"
-  // },
-  // {
-  //   id: 2,
-  //   image: "https://picsum.photos/seed/picsum/200/300?random=3",
-  //   name: "Larry",
-  //   status: "selling",
-  //   species: "larry",
-  //   gender: "male"
-  // }
-]
+const initialPeople = [];
 
 
 
